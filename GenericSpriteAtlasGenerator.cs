@@ -8,7 +8,7 @@ using UnityEditor.U2D;
 using UnityEngine.Sprites;
 using UnityEditor.AddressableAssets;
 using System.Reflection;
-//
+
 
 public class GenericSpriteAtlasGenerator : Editor
 {
